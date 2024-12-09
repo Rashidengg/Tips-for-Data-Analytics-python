@@ -6,7 +6,8 @@
 ### 52446 Fundamentals of Data Analysis Assessment
 
 Git-hub repository at:
-https://github.com/Rashidengg/data-analysis-project.git
+[(https://github.com/Rashidengg/Tips-for-Data-Analytics-python/blob/main/README.md)]
+(https://github.com/Rashidengg/Tips-for-Data-Analytics-python)
 
 - Jupyter notebook: **tips-data-analysis.ipynb**
 - data set: data\tips.csv
